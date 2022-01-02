@@ -1,7 +1,7 @@
 # ShortUrl- created by seven Galaxy pro hacker
 @@ -1,7 +1,49 @@
 # Created By SEVEN GALAXY PRO HACKER 
-# Github : https://github.com/jemeen08
+# Github : https://github.com/jemeen08/ShortUrl
 #!/bin/bash
 
 z="
@@ -18,9 +18,7 @@ printf "\e[0m\e[1;93m   ____) | | | | (_) | |  | |_  \e[0m\e[1;92m| |__| | | \ \
 printf "\e[0m\e[1;93m  |_____/|_| |_|\___/|_|   \__| \e[0m\e[1;92m \____/|_|  \_\______|\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[1;93m        Created By Seven Galaxy Pro Hacker  \e[0m\e[1;91m( \e[0m\e[1;92jemeen08 \e[0m\e[1;91m)\e[0m\n"
-printf "\e[0m\n"
-printf "\e[0m\e[1;93m    Github :\e[0m\e[1;96m jemeen08 \e[0m\e[1;97m| \e[0m\e[1;93mInstagram :\e[0m\e[1;96m @tahmid.rayat\e[0m\n"
-}
+printf "\e[0m\n
 banner
 printf "\e[0m\n"
 printf "\e[0m\n"
@@ -37,8 +35,6 @@ cp -f url /data/data/com.termux/files/usr/bin/shorturl
 cp -f url /data/data/com.termux/files/usr/bin/ShortUrl
 echo 'termux-open-url https://github.com/htr-tech/' > /data/data/com.termux/files/usr/bin/Seven Galaxy 
 echo 'termux-open-url https://github.com/htr-tech/' > /data/data/com.termux/files/usr/bin/Seven Galaxy 
-echo 'termux-open-url https://www.instagram.com/tahmid.rayat/' > /data/data/com.termux/files/usr/bin/instagram
-echo 'termux-open-url https://www.instagram.com/tahmid.rayat/' > /data/data/com.termux/files/usr/bin/Instagram
 chmod +x /data/data/com.termux/files/usr/bin/jemeen08
 chmod +x /data/data/com.termux/files/usr/bin/seven galaxy 
 chmod +x /data/data/com.termux/files/usr/bin/instagram
